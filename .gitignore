@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+.env
+.venv/
+venv/
+.venv/
+output/
+rendered/
+*.mp4
+*.mov
+
+# Regenerable artifacts (not committed)
+renders/
+logs/
+audio/*.wav
+models/kokoro-int8-multi-lang-v1_1/
